@@ -21,4 +21,4 @@ The code allows you to build a conversational agent using the Blenderbot model.
 
 ```cd blender-chat-bot-AI```
 
-Run ```python blender_bot.py```
+```python blender_bot.py```
